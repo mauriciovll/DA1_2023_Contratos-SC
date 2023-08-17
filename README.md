@@ -20,9 +20,13 @@ Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto:
 
 #### Bibliotecas utilizadas
 
+***Para manipulação de dados***
+
 **[Pandas:](https://pandas.pydata.org/)** A biblioteca pandas é uma ferramenta essencial para manipulação e análise de dados em Python. Ela introduz duas estruturas principais, o DataFrame e a Series, que possibilitam a organização e manipulação de dados tabulares de maneira intuitiva. Com pandas, é possível realizar operações de limpeza, transformação e agregação de dados de forma eficiente, além de lidar com valores ausentes. Essa biblioteca é amplamente utilizada em análise de dados, ciência de dados e preparação de dados para modelagem, permitindo que os usuários explorem e compreendam seus dados de maneira eficaz.
 
 **[NumPy:](https://numpy.org/)** NumPy é uma biblioteca crucial para Python, permitindo manipulação eficiente de dados numéricos. Com arrays multidimensionais otimizados, possibilita cálculos matemáticos complexos. Essencial em áreas como ciência de dados e aprendizado de máquina, integra-se a outras bibliotecas como Pandas e Matplotlib, tornando-se vital para análises estatísticas e científicas.
+
+***Para geração de visualizações e insights estatísticos***
 
 **[Matplotlib:](https://matplotlib.org/)** Matplotlib é uma biblioteca fundamental em Python para visualização de dados e criação de gráficos de alta qualidade. Ela oferece uma ampla gama de estilos gráficos e tipos de gráficos, desde gráficos de linhas simples até mapas de calor complexos. Com sua flexibilidade, permite personalizar detalhes visuais e adicionar anotações, tornando-a uma ferramenta poderosa para comunicar insights a partir de dados de maneira clara e eficaz.
 
