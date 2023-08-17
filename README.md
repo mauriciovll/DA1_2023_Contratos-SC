@@ -20,6 +20,8 @@ Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto:
 
 #### Bibliotecas utilizadas
 
+**[Pandas:]**(https://pandas.pydata.org/)
+
 ### Toolkit de análise
 
 #### Para compartilhamento de código-fonte
