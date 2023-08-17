@@ -52,6 +52,25 @@ Nesse projeto foi utilizada como ferramenta de visualização de dados o [Micros
 
 Nesse projeto foi utilizado o [SQLite](https://www.sqlite.org/index.html) para persistência de dados. O SQLite é um sistema de gerenciamento de banco de dados (DBMS) leve e embutido, amplamente utilizado em aplicativos para armazenar e recuperar informações. Ele não requer um servidor separado, pois opera diretamente a partir de um único arquivo, facilitando a implementação.
 
+## Processo de análise de dados
+
+Para fins didáticos o projeto foi dividido em 4 fases, a saber: (i) Preparação do projeto; (ii) pré-processamento; (iii) elaboração de relatório; e, (iv) Finalização do projeto.
+
+A fase de **preparação do projeto** consistiu em definir o problema de pesquisa, identificar as fontes de dados e configurar o repositório do projeto.
+
+![imagem](Images/Data_analysis_process_1.png)
+
+A fase de **pré-processamento** consistiu em extrair os dados da fonte original e realizar a preparação dos datasets para análise e visualização. Nessa fase do projeto foi utilizada a linguagem Python em interpretador Jupyter Notebook. Essa fase é concluída com a disponibilização dos datasets para análise e seu armazenamento em banco de dados.
+
+![imagem](Images/Data_analysis_process_2.png)
+
+A fase de **elaboração de relatório** consistiu em gerar um painel de monitoramento utilizando Power BI e publicá-lo na Internet.
+
+![imagem](Images/Data_analysis_process_3.png)
+
+Finalmente, a fase de **finalização do projeto** consistiu em revisar o repositório do projeto e publicá-lo na plataforma GitHub para fins de compartilhamento de código-fonte.
+
+![imagem](Images/Data_analysis_process_4.png)
 
 **Referências:**
 
