@@ -24,6 +24,10 @@ Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto:
 
 **[NumPy:](https://numpy.org/)** NumPy é uma biblioteca crucial para Python, permitindo manipulação eficiente de dados numéricos. Com arrays multidimensionais otimizados, possibilita cálculos matemáticos complexos. Essencial em áreas como ciência de dados e aprendizado de máquina, integra-se a outras bibliotecas como Pandas e Matplotlib, tornando-se vital para análises estatísticas e científicas.
 
+**[Matplotlib:](https://matplotlib.org/)** Matplotlib é uma biblioteca fundamental em Python para visualização de dados e criação de gráficos de alta qualidade. Ela oferece uma ampla gama de estilos gráficos e tipos de gráficos, desde gráficos de linhas simples até mapas de calor complexos. Com sua flexibilidade, permite personalizar detalhes visuais e adicionar anotações, tornando-a uma ferramenta poderosa para comunicar insights a partir de dados de maneira clara e eficaz.
+
+**[Seaborn:](https://seaborn.pydata.org/)** O Seaborn é uma biblioteca Python que estende o Matplotlib, permitindo a criação simplificada de gráficos estatísticos atraentes. Com estilos predefinidos e paletas de cores, é ideal para explorar relações e padrões em dados, facilitando a visualização e interpretação de insights estatísticos.
+
 ### Toolkit de análise
 
 #### Para compartilhamento de código-fonte
