@@ -48,7 +48,7 @@ Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto:
 
 Nesse projeto foi utilizada como ferramenta de visualização de dados o [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/). O Power BI é uma plataforma de análise de dados desenvolvida pela Microsoft que permite a criação de painéis interativos, relatórios e visualizações de dados. Ele integra-se a várias fontes de dados e oferece recursos de transformação, modelagem e análise avançada. 
 
-## Banco de dados
+### Banco de dados
 
 Nesse projeto foi utilizado o [SQLite](https://www.sqlite.org/index.html) para persistência de dados. O SQLite é um sistema de gerenciamento de banco de dados (DBMS) leve e embutido, amplamente utilizado em aplicativos para armazenar e recuperar informações. Ele não requer um servidor separado, pois opera diretamente a partir de um único arquivo, facilitando a implementação.
 
