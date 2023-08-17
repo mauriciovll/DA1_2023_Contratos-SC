@@ -1,10 +1,15 @@
 ![imagem](Images/VLL_Banner.png)
 
-# Análise das contratações do Estado de Santa Catarina
+# ANÁLISE Análise das contratações do Estado de Santa Catarina
 
-Escrever aqui a descrição geral do projeto.
+**Autor:** [Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220)
 
-![imagem](Images/Processo_data_analysis.png)
+## Descrição do Projeto
+
+## 
+
+
+![imagem](Images/Data_analysis_process_1.png)
 
 [Jupyter Notebook 01: Carga e preparação inicial dos dados](Documents/Fornecedores.pdf)
 
