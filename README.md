@@ -1,14 +1,30 @@
 ![imagem](Images/VLL_Banner.png)
 
-# ANÁLISE Análise das contratações do Estado de Santa Catarina
+# ANÁLISE DAS CONTRATAÇÕES DO ESTADO DE SANTA CATARINA
 
 **Autor:**
 
-[![imagem](Images/Linkedin_logo.png)] [Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220)
+![imagem](Images/Linkedin_logo.png) [Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220)
 
-## Descrição do Projeto
+## Descrição do projeto
 
-## 
+## Fontes de dados
+
+## Stack de análise
+
+### Linguagem de programãção
+
+#### Bibliotecas utilizadas
+
+### Toolkit de análise
+
+#### Para compartilhamento de código-fonte
+
+#### Para pré-processamento de dados
+
+#### Para visualização de dados
+
+
 
 
 ![imagem](Images/Data_analysis_process_1.png)
