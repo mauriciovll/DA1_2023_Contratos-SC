@@ -15,6 +15,7 @@
 ### Linguagem de programação
 
 Versão da linguagem [Python](https://www.python.org/) utilizada neste projeto: 3.8.5
+
 Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto: 64bit
 
 #### Bibliotecas utilizadas
