@@ -2,7 +2,7 @@
 
 # ANÁLISE Análise das contratações do Estado de Santa Catarina
 
-**Autor:** [Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220)
+**Autor:** [Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220){target="_blank"}
 
 ## Descrição do Projeto
 
