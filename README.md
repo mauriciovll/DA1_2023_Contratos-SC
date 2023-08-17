@@ -1,8 +1,9 @@
+![imagem](images/VLL_Banner.png)
 # DA01 - Análise das contratações do Estado de Santa Catarina
 
 Escrever aqui a descrição geral do projeto.
 
-
+[Jupyter Notebook 01: Carga e preparação inicial dos dados](fornecedores.ipynb)
 
 
 **Referências:**
