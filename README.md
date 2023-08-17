@@ -1,3 +1,5 @@
+![imagem](Images/VLL_Banner.png)
+
 # Análise das contratações do Estado de Santa Catarina
 
 Escrever aqui a descrição geral do projeto.
