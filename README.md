@@ -4,7 +4,7 @@
 
 **Autor:**
 
-![imagem](Images/Linkedin_logo.png)(https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220) [Maurício Vasconcellos Leão Lyrio, Dr.]
+[Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220) ![imagem](Images/Linkedin_logo.png)
 
 ## Descrição do Projeto
 
