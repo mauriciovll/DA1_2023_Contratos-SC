@@ -1,6 +1,6 @@
 ![imagem](Images/VLL_Banner.png)
 
-# ANÁLISE DAS CONTRATAÇÕES DO ESTADO DE SANTA CATARINA
+# Análise das contratações no Estado de Santa Catarina
 
 **Autor:**
 
@@ -12,7 +12,7 @@
 
 ## Stack de análise
 
-### Linguagem de programãção
+### Linguagem de programação
 
 #### Bibliotecas utilizadas
 
@@ -23,6 +23,8 @@
 #### Para pré-processamento de dados
 
 #### Para visualização de dados
+
+### Banco de dados
 
 
 
