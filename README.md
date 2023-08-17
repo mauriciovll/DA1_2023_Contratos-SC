@@ -16,8 +16,6 @@
 
 Versão da linguagem [Python](https://www.python.org/) utilizada neste projeto: 3.8.5
 
-Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto: 64bit
-
 #### Bibliotecas utilizadas
 
 ***Para manipulação de dados***
@@ -40,7 +38,13 @@ Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto:
 
 #### Para compartilhamento de código-fonte
 
+Nesse projeto foi utilizado o [GitHub](https://github.com/) para compartilhamento de código-fonte. O GitHub é uma plataforma de hospedagem de código-fonte e colaboração que usa o Git para rastrear versões. Ele permite compartilhar projetos, coordenar equipes, revisar código e gerenciar problemas, facilitando o desenvolvimento de software colaborativo e o controle de versão eficiente.
+
 #### Para pré-processamento de dados
+
+Nesse projeto foi utilizado o Jupyter Notebook como interpretador da linguagem Python. O Jupyter Notebook é uma aplicação web de código aberto que permite criar e compartilhar documentos interativos contendo código, visualizações e textos explicativos. Ele suporta várias linguagens de programação e oferece um ambiente flexível para análise de dados, modelagem estatística e exploração de ideias, combinando códigos executáveis, saídas visuais e documentação em um único ambiente colaborativo.
+
+Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto: 64bit
 
 #### Para visualização de dados
 
