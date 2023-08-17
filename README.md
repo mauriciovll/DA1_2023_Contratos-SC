@@ -2,6 +2,8 @@
 
 Escrever aqui a descrição geral do projeto.
 
+![imagem](Images/Processo_data_analysis.png)
+
 [Jupyter Notebook 01: Carga e preparação inicial dos dados](Documents/Fornecedores.pdf)
 
 
