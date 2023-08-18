@@ -8,7 +8,17 @@
 
 ## Descrição do projeto
 
+Esse projeto foi desenvolvido como um case de análise de dados e utilizado como apoio à disciplina ***Data Analytics aplicado ao ensino e pesquisa em contabilidade***, ministrada no âmbito do Departamento de Ciências Contábeis da Universidade Federal de Santa Catarina.
+
+Tem por objetivo desenvolver um dashboard com informações sobre os contratos estabelecidos pelo Poder Executivo do Estado de Santa Catarina e apresentar aos alunos um processo passo-a-passo para desenvolvimento de um projeto de analytics, bem como apresentar os conceitos de dados abertos governamentais e o procedimento de solicitação de dados via Lei de Acesso à Informação.
+
+Além disso, busca desenvolver o entendimento de pesquisa replicável, no sentido mostrar uma forma de documentar os procedimentos utilizados no decorrer do desenvolvimento de um projeto de pesquisa afim de possibilitar sua replicabilidade e evolução ao longo do tempo.
+
 ## Fontes de dados
+
+Os dados referentes aos [contratos](https://dados.sc.gov.br/dataset/contratos) estabelecidos pelo PE de Santa Catarina foram obtidos junto ao [Portal de Dados Abertos do Estado de Santa Catarina](https://dados.sc.gov.br/), abrangendo o período de 2011 a 2022.
+
+Os dados referentes aos fornecedores do Estado foram obtidos por meio de solicitação via Lei de Acesso à Informação (solicitação nº 15.831/2023, de 14 de Junho de 2023) e recebidos em 15/06/2023 (sendo essa a data de atualização do dataset). O modelo de solicitação de informação utilizado no projeto está disponível na pasta de documentos.
 
 ## Linguagem de programação
 
