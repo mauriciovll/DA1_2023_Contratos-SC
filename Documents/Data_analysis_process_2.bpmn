@@ -42,7 +42,7 @@
       <bpmn:incoming>Flow_1hs7tuu</bpmn:incoming>
       <bpmn:outgoing>Flow_1dsynhw</bpmn:outgoing>
     </bpmn:scriptTask>
-    <bpmn:scriptTask id="Activity_0663kyb" name="pré-processamento">
+    <bpmn:scriptTask id="Activity_0663kyb" name="Limpeza e transformação">
       <bpmn:incoming>Flow_1dsynhw</bpmn:incoming>
       <bpmn:outgoing>Flow_0nnt5ug</bpmn:outgoing>
     </bpmn:scriptTask>
