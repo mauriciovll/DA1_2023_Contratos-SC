@@ -4,9 +4,9 @@
 
 **Autor:**
 
-![imagem](Images/Linkedin_logo.png) [Maurício Vasconcellos Leão Lyrio, Dr.](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220)
+![imagem](Images/Linkedin_logo.png) [Maurício Vasconcellos Leão Lyrio](https://br.linkedin.com/in/maurício-vasconcellos-leão-lyrio-59773220)
 
-## Descrição do projeto
+## Descrição do projeto teste
 
 Esse projeto foi desenvolvido como um case de análise de dados e utilizado como apoio à disciplina ***Data Analytics aplicado ao ensino e pesquisa em contabilidade***, ministrada no âmbito do Departamento de Ciências Contábeis da Universidade Federal de Santa Catarina.
 
