@@ -1,0 +1,4 @@
+*.db
+*.xlsx
+*.csv
+!ELIC_fornecedores_cadastro.csv
