@@ -78,4 +78,4 @@ Finalmente, a fase de **finalização do projeto** consistiu em revisar o reposi
 
 ![imagem](Images/Data_analysis_process_4.png)
 
-<iframe title="Painel de monitoramento de contratos SC" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9" width="600" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
