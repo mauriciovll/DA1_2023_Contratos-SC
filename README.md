@@ -74,15 +74,11 @@ A fase de **pré-processamento** consistiu em extrair os dados da fonte original
   <img src="Images/Data_analysis_process_2.png" alt="imagem">
 </p>
 
-![imagem](Images/Data_analysis_process_2.png)
-
 A fase de **elaboração de relatório** consistiu em gerar um painel de monitoramento utilizando Power BI e publicá-lo na Internet.
 
 <p align="center">
   <img src="Images/Data_analysis_process_3.png" alt="imagem">
 </p>
-
-![imagem](Images/Data_analysis_process_3.png)
 
 Finalmente, a fase de **finalização do projeto** consistiu em revisar o repositório do projeto e publicá-lo na plataforma GitHub para fins de compartilhamento de código-fonte.
 
@@ -90,6 +86,10 @@ Finalmente, a fase de **finalização do projeto** consistiu em revisar o reposi
   <img src="Images/Data_analysis_process_4.png" alt="imagem">
 </p>
 
-![imagem](Images/Data_analysis_process_4.png)
+
 
 ## ![Link para o dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9)
+
+<p align="center">
+  <iframe title="Painel de monitoramento de contratos SC" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9" frameborder="0" allowFullScreen="true"></iframe>
+</p>
