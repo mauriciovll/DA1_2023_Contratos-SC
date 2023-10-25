@@ -2,6 +2,4 @@
 *.xlsx
 *.csv
 *.json
-*.pbix
-!DA1_2023_Contratos_SC.pbix
 !ELIC_fornecedores_cadastro.csv
