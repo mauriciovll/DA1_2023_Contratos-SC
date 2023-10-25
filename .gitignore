@@ -2,4 +2,5 @@
 *.xlsx
 *.csv
 *.json
+*.pdf
 !ELIC_fornecedores_cadastro.csv
