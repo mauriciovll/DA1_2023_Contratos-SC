@@ -1,5 +1,9 @@
 teste
 
+<p align="center">
+  <img src="Images/UFSC_Banner.png" alt="imagem">
+</p>
+
 ![imagem](Images/UFSC_Banner.png)
 
 # Análise das contratações no Estado de Santa Catarina
