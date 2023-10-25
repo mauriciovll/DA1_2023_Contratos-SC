@@ -1,5 +1,3 @@
-teste
-
 <p align="center">
   <img src="Images/UFSC_Banner.png" alt="imagem">
 </p>
@@ -72,13 +70,25 @@ A fase de **preparação do projeto** consistiu em definir o problema de pesquis
 
 A fase de **pré-processamento** consistiu em extrair os dados da fonte original e realizar a preparação dos datasets para análise e visualização. Nessa fase do projeto foi utilizada a linguagem Python em interpretador Jupyter Notebook. Essa fase é concluída com a disponibilização dos datasets para análise e seu armazenamento em banco de dados.
 
+<p align="center">
+  <img src="Images/Data_analysis_process_2.png" alt="imagem">
+</p>
+
 ![imagem](Images/Data_analysis_process_2.png)
 
 A fase de **elaboração de relatório** consistiu em gerar um painel de monitoramento utilizando Power BI e publicá-lo na Internet.
 
+<p align="center">
+  <img src="Images/Data_analysis_process_3.png" alt="imagem">
+</p>
+
 ![imagem](Images/Data_analysis_process_3.png)
 
 Finalmente, a fase de **finalização do projeto** consistiu em revisar o repositório do projeto e publicá-lo na plataforma GitHub para fins de compartilhamento de código-fonte.
+
+<p align="center">
+  <img src="Images/Data_analysis_process_4.png" alt="imagem">
+</p>
 
 ![imagem](Images/Data_analysis_process_4.png)
 
