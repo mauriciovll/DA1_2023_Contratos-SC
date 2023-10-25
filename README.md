@@ -1,6 +1,6 @@
 teste
 
-![imagem](Images/VLL_Banner.png)
+![imagem](Images/UFSC_Banner.png)
 
 # Análise das contratações no Estado de Santa Catarina
 
@@ -15,6 +15,8 @@ Esse projeto foi desenvolvido como um case de análise de dados e utilizado como
 Tem por objetivo desenvolver um dashboard com informações sobre os contratos estabelecidos pelo Poder Executivo do Estado de Santa Catarina e apresentar aos alunos um processo passo-a-passo para desenvolvimento de um projeto de analytics, bem como apresentar os conceitos de dados abertos governamentais e o procedimento de solicitação de dados via Lei de Acesso à Informação.
 
 Além disso, busca desenvolver o entendimento de pesquisa replicável, no sentido mostrar uma forma de documentar os procedimentos utilizados no decorrer do desenvolvimento de um projeto de pesquisa afim de possibilitar sua replicabilidade e evolução ao longo do tempo.
+
+*Obs.: É importante notar que este dashboard foi desenvolvido utilizando dados públicos, e embora tenhamos feito todos os esforços para garantir a precisão das informações, não submetemos o protótipo a um processo formal de validação ou auditoria. Ademais, reconhecemos a possibilidade de que alguns valores possam conter imprecisões devido ao processo de transformação dos dados ou a eventuais inconsistências na base de dados original. Recomendamos cautela ao interpretar os resultados e sugerimos que qualquer análise crítica leve em consideração a natureza preliminar desta visualização, sujeita a ajustes posteriores.*
 
 ## Fontes de dados
 
@@ -32,14 +34,6 @@ Versão da linguagem [Python](https://www.python.org/) utilizada neste projeto: 
 
 **[Pandas:](https://pandas.pydata.org/)** A biblioteca pandas é uma ferramenta essencial para manipulação e análise de dados em Python. Ela possibilita a organização e manipulação de dados tabulares de maneira intuitiva, bem como operações de limpeza, transformação e agregação de dados, além de lidar com valores ausentes.
 
-**[NumPy:](https://numpy.org/)** NumPy é uma biblioteca Python que possibilita a manipulação eficiente de dados numéricos. Com arrays multidimensionais otimizados, possibilita cálculos matemáticos complexos. Integra-se a outras bibliotecas como Pandas e Matplotlib, tornando-se vital para análises estatísticas e científicas.
-
-***Para geração de visualizações e insights estatísticos***
-
-**[Matplotlib:](https://matplotlib.org/)** Matplotlib é uma biblioteca Python para visualização de dados e criação de gráficos de alta qualidade. Ela oferece uma ampla gama de estilos gráficos e tipos de gráficos, desde gráficos de linhas simples até mapas de calor complexos.
-
-**[Seaborn:](https://seaborn.pydata.org/)** O Seaborn é uma biblioteca Python que estende o Matplotlib, permitindo a criação simplificada de gráficos estatísticos atraentes. Com estilos predefinidos e paletas de cores, é ideal para explorar relações e padrões em dados, facilitando a visualização e interpretação de insights estatísticos.
-
 ***Outras bibliotecas***
 
 **Warnings:** A biblioteca warnings em Python é usada para controlar a exibição de avisos durante a execução do código. Ela permite aos programadores gerenciar alertas sobre práticas desencorajadas, mudanças de comportamento ou outras situações potencialmente problemáticas.
@@ -48,17 +42,17 @@ Versão da linguagem [Python](https://www.python.org/) utilizada neste projeto: 
 
 ### Para compartilhamento de código-fonte
 
-Nesse projeto foi utilizado o [GitHub](https://github.com/) para compartilhamento de código-fonte. O GitHub é uma plataforma de hospedagem de código-fonte e colaboração que usa o Git para rastrear versões. Ele permite compartilhar projetos, coordenar equipes, revisar código e gerenciar problemas, facilitando o desenvolvimento de software colaborativo e o controle de versão eficiente.
+Foi utilizado o [GitHub](https://github.com/) para compartilhamento de código-fonte. O GitHub é uma plataforma de hospedagem de código-fonte e colaboração que usa o Git para rastrear versões. Ele permite compartilhar projetos, coordenar equipes, revisar código e gerenciar problemas, facilitando o desenvolvimento de software colaborativo e o controle de versão eficiente.
 
 ### Para pré-processamento de dados
 
-Nesse projeto foi utilizado o Jupyter Notebook como interpretador da linguagem Python. O Jupyter Notebook é uma aplicação web de código aberto que permite criar e compartilhar documentos interativos contendo código, visualizações e textos explicativos. Ele suporta várias linguagens de programação e oferece um ambiente flexível para análise de dados, modelagem estatística e exploração de ideias, combinando códigos executáveis, saídas visuais e documentação em um único ambiente colaborativo.
+Foi utilizado o Jupyter Notebook como interpretador da linguagem Python. O Jupyter Notebook é uma aplicação web de código aberto que permite criar e compartilhar documentos interativos contendo código, visualizações e textos explicativos. Ele suporta várias linguagens de programação e oferece um ambiente flexível para análise de dados, modelagem estatística e exploração de ideias, combinando códigos executáveis, saídas visuais e documentação em um único ambiente colaborativo.
 
 Arquitetura do [Jupyter Notebook](https://jupyter.org/) utilizada neste projeto: 64bit
 
 ### Para visualização de dados
 
-Nesse projeto foi utilizada como ferramenta de visualização de dados o [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/). O Power BI é uma plataforma de análise de dados desenvolvida pela Microsoft que permite a criação de painéis interativos, relatórios e visualizações de dados. Ele integra-se a várias fontes de dados e oferece recursos de transformação, modelagem e análise avançada. 
+Foi utilizada como ferramenta de visualização de dados o [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/). O Power BI é uma plataforma de análise de dados desenvolvida pela Microsoft que permite a criação de painéis interativos, relatórios e visualizações de dados. Ele integra-se a várias fontes de dados e oferece recursos de transformação, modelagem e análise avançada. 
 
 ### Banco de dados
 
@@ -84,6 +78,4 @@ Finalmente, a fase de **finalização do projeto** consistiu em revisar o reposi
 
 ![imagem](Images/Data_analysis_process_4.png)
 
-**Referências:**
-
-[Duan, H. K., Hu, H., Vasarhelyi, M., Rosa, F. S., & Leão Lyrio, M. V. (2020). ***Open Government Data (OGD) driven decision aid:*** a predictive model to monitor COVID-19 and support decisions in a Brazilian State. Revista Do Serviço Público, 71, 140-164. https://doi.org/10.21874/rsp.v71i0.5009](https://revista.enap.gov.br/index.php/RSP/article/view/5009)
+<iframe title="Painel de monitoramento de contratos SC" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9" frameborder="0" allowFullScreen="true"></iframe>

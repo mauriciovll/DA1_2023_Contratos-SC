@@ -1,4 +1,5 @@
 *.db
 *.xlsx
 *.csv
+*.json
 !ELIC_fornecedores_cadastro.csv
