@@ -4,8 +4,6 @@ teste
   <img src="Images/UFSC_Banner.png" alt="imagem">
 </p>
 
-![imagem](Images/UFSC_Banner.png)
-
 # Análise das contratações no Estado de Santa Catarina
 
 **Autor:**
@@ -68,7 +66,9 @@ Para fins didáticos o projeto foi dividido em 4 fases, a saber: (i) Preparaçã
 
 A fase de **preparação do projeto** consistiu em definir o problema de pesquisa, identificar as fontes de dados e configurar o repositório do projeto.
 
-![imagem](Images/Data_analysis_process_1.png)
+<p align="center">
+  <img src="Images/Data_analysis_process_1.png" alt="imagem">
+</p>
 
 A fase de **pré-processamento** consistiu em extrair os dados da fonte original e realizar a preparação dos datasets para análise e visualização. Nessa fase do projeto foi utilizada a linguagem Python em interpretador Jupyter Notebook. Essa fase é concluída com a disponibilização dos datasets para análise e seu armazenamento em banco de dados.
 
