@@ -77,3 +77,5 @@ A fase de **elaboração de relatório** consistiu em gerar um painel de monitor
 Finalmente, a fase de **finalização do projeto** consistiu em revisar o repositório do projeto e publicá-lo na plataforma GitHub para fins de compartilhamento de código-fonte.
 
 ![imagem](Images/Data_analysis_process_4.png)
+
+## ![Link para o dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9)
