@@ -85,8 +85,4 @@ Finalmente, a fase de **finalização do projeto** consistiu em revisar o reposi
   <img src="Images/Data_analysis_process_4.png" alt="imagem">
 </p>
 
-
-
 ## [Link para o dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9)
-
-## <a href="https://app.powerbi.com/view?r=eyJrIjoiOTQxYjhlMDYtNDNkNS00MzlhLThiMmMtMDdiOTkwZGY1YzIyIiwidCI6ImM5MjM4Y2QwLTI2ZmYtNGU1My1iZTUxLTcyZjI0NWExZjUxYyJ9" target= "_blank">Link para o dashboard</a>
